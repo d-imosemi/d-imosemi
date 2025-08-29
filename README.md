@@ -4,6 +4,8 @@ I’m an Optometrist turned Python/Django developer, passionate about building i
 My journey blends healthcare, software, and innovation—from gamified web apps to ideas in renewable energy and digital health platforms.
 
 !d-imosemi's Stats](https://github-readme-stats.vercel.app/api?username=d-imosemi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![d-imosemi's Stats](https://github-readme-stats.vercel.app/api?username=<d-imosemi>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
